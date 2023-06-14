@@ -1,11 +1,7 @@
 # Embedding-a-Machine-Learning-Model-into-a-Web-Application-FastAPI
-Embedding-a-Machine-Learning-Model-into-a-Web-Application-FastAPI
 
 
-# NLP-Sentiment-Analysis-and-Deployment
-This repository contains all the necessary code, data, and instructions for running the project on your own machine, and is intended for anyone interested in learning about NLP, Sentiment Analysis, and deploying machine learning models.
-
-Sentiment analysis is the process of determining the sentiment or opinion expressed in a piece of text. In this project, we aim to build a sentiment analysis model using NLP techniques and deploy it as an application for real-time sentiment analysis of text data.
+This repository provides a step-by-step guide on how to embed a machine learning model into a web application using FastAPI. FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints. By following this guide, you will learn how to create a simple web application that exposes a machine learning model as an API endpoint.
 
 
 ## Summary
@@ -14,8 +10,8 @@ Sentiment analysis is the process of determining the sentiment or opinion expres
 | -------------------------- | ------------------ | 
 | Code                       | LP6                | 
 | Project Name               | Embedding a Machine Learning Model into a Web Application : FastAPI | 
-| Published Article          | https://medium.com/@kwabenaabrefa/nlp-sentiment-analysis-and-deployment-610dc02254ad  |
-| Deployed Ap                | https://huggingface.co/spaces/KwabenaMufasa/Tweets_Sentiment_Analyzer_App    |
+| Published Article          | https://medium.com/@kwabenaabrefa/embedding-machine-learning-for-sepsis-prediction-into-a-web-application-with-fastapi-1887512bc62d |
+| Deployed Ap                | https://huggingface.co/spaces/KwabenaMufasa/Sepsis_Machine_Learning_API_-_FastAPI    |
 |                            |                    | 
 
 
