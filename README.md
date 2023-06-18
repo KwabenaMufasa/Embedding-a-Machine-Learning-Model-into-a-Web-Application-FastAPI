@@ -1,5 +1,8 @@
 # Embedding-a-Machine-Learning-Model-into-a-Web-Application-FastAPI
 
+[![Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/KwabenaMufasa?tab=repositories)
+[![Profile](https://img.shields.io/badge/MEDIUM-Article-purple?logo=Medium)](https://medium.com/@kwabenaabrefa/embedding-machine-learning-for-sepsis-prediction-into-a-web-application-with-fastapi-1887512bc62d)
+[![Hugging Face](https://img.shields.io/badge/Hugging-Face-yellow)](https://huggingface.co/spaces/KwabenaMufasa/Sepsis_Machine_Learning_API_-_FastAPI)
 
 
 This repository provides a step-by-step guide on how to embed a machine learning model into a web application using FastAPI. FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints. By following this guide, you will learn how to create a simple web application that exposes a machine learning model as an API endpoint.
