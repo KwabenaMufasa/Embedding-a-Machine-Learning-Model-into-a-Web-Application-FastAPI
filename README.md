@@ -23,6 +23,20 @@ The goal of this project is to build a web application that can predict the prob
 
 The web application built with FastAPI allows users to interact with the model through a user-friendly API. Users can send a POST request to the API endpoint with the required input parameters, and the application will return the predicted probability of sepsis. This enables healthcare professionals and researchers to quickly assess the risk of sepsis for a patient and take appropriate actions.
 
+## Setup
+
+ Install the required packages to be able to run the evaluation locally.
+
+You need to have [`Python 3`](https://www.python.org/) on your system (**a Python version lower than 3.10**). Then you can clone this repo and being at the repo's `https://github.com/kwasiasomani/Machine-Learning-FastAPI/tree/main`  follow the steps below:
+
+- Windows:
+        
+        python -m venv venv; venv\Scripts\activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt  
+
+- Linux & MacOs:
+        
+        python3 -m venv venv; source venv/bin/activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt  
+
 
 
 
