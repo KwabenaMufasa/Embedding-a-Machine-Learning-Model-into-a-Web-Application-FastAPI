@@ -1,6 +1,7 @@
 # Embedding-a-Machine-Learning-Model-into-a-Web-Application-FastAPI
 
 
+
 This repository provides a step-by-step guide on how to embed a machine learning model into a web application using FastAPI. FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints. By following this guide, you will learn how to create a simple web application that exposes a machine learning model as an API endpoint.
 
 
